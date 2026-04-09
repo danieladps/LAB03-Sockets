@@ -2,7 +2,8 @@
 
 **Disciplina:** Redes de Computadores  
 **Instituição:** Universidade Presbiteriana Mackenzie  
-**Integrantes:** Daniela e Guilherme
+**Integrantes:** Daniela Pereira da Silva  - **RA:** 10410906
+**Integrantes:** Guilherme Itihara - **RA:** 10440279
 
 ---
 
