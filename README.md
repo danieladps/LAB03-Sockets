@@ -58,15 +58,15 @@ Aplicação cliente-servidor para transferência de arquivos via socket TCP. O c
 
 1. Execute primeiro o servidor:
 ```bash
-python server_files_tcp.py
+python server_tcp.py
 ```
 
 2. Em outro terminal, execute o cliente:
 ```bash
-python client_files_tcp.py
+python client_tcp.py
 ```
 
-> A porta utilizada é **10440** (primeiros 5 dígitos do TIA).
+> A porta utilizada é **10410** (primeiros 5 dígitos do TIA).
 
 ---
 
