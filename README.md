@@ -2,7 +2,7 @@
 
 **Disciplina:** Redes de Computadores  
 **Instituição:** Universidade Presbiteriana Mackenzie  
-**Integrantes:** Daniela Pereira da Silva  - **RA:** 10410906
+**Integrantes:** Daniela Pereira da Silva  - **RA:** 10410906  
 **Integrantes:** Guilherme Itihara - **RA:** 10440279
 
 ---
@@ -16,10 +16,10 @@ Este repositório contém as atividades do LAB03, que tem como objetivo aprender
 ## 📁 Estrutura dos arquivos
 
 ```
-├── server_chat_tcp.py       # Servidor do chat TCP (Questão 2)
-├── client_chat_tcp.py       # Cliente do chat TCP (Questão 2)
-├── server_files_tcp.py      # Servidor de transferência de arquivos (Questão 3)
-└── client_files_tcp.py      # Cliente com menu de transferência de arquivos (Questão 3)
+├── Server_chat_tcp.py       # Servidor do chat TCP (Questão 2)
+├── Client_chat_tcp.py       # Cliente do chat TCP (Questão 2)
+├── server_tcp.py            # Servidor de transferência de arquivos (Questão 3)
+└── client_tcp.py            # Cliente com menu de transferência de arquivos (Questão 3)
 ```
 
 ---
